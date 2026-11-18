@@ -1,0 +1,6 @@
+{
+  "name": "MySocial",
+  "description": "Modern social media platform with news feed, stories, messaging, notifications, profile management, and comprehensive admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
